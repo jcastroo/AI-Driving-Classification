@@ -56,6 +56,9 @@ Pandas, NumPy, Matplotlib, Seaborn: For data manipulation, analysis, and visuali
 - **CUDA Version:** 12.4
 - **cuDNN Version:** 8.9.4.25
 
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 
 
