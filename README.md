@@ -6,6 +6,11 @@ This project investigates the use of Artificial Intelligence (AI) and Deep Learn
 ### Motivation
 The motivation for this project is to enhance road safety by analyzing driving behaviors in real-time using the sensors available in smartphones. The goal is to create an accessible and effective solution for detecting and classifying various driving styles, thereby contributing to accident prevention and promoting responsible driving.
 
+
+### Scientific Publication:
+This project has evolved into a peer-reviewed scientific article: **“Driving Behavior Classification Using a ConvLSTM”**, published in *Future Transportation* (MDPI, Volume 5, Issue 2, 2025).  
+[Read the full article here](https://www.mdpi.com/2673-7590/5/2/52) 
+
 ### Authors
 - Alberto Pingo ([@albertopingo](https://github.com/albertopingo))
 - João Castro ([@jcastroo](https://github.com/jcastroo))
